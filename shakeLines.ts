@@ -1,7 +1,7 @@
 // *****************************************************************************
 //
 // This file is a part of the <shakeLines> distribution.
-// This distribution is subject to MIT license. (written below)
+// This distribution is subject to MIT license.
 //
 // shakeLines performs line permutations (as if you used a shaker) for JavaScript
 // code in order to find quicker variants of the same code by moving lines around.
